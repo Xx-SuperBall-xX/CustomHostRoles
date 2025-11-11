@@ -29,3 +29,19 @@ CHRで起きたバグは本家や他MODには報告しないでまずはCHRに�
 =>　要するに**Modだと認知していない野良のプレイヤーが交わる可能性がある**とアウトです。<br>
 <br>
 勧誘部屋に遭遇した場合は勧誘先に無闇に参加せずまずは開発者にお知らせください。厳正に対処いたします。<br>
+
+## クレジット
+[TownOfHost](https://github.com/tukasa0001/TownOfHost)<br>
+Fork元のFork元の本家です<br>
+
+[TownOfHost-K](https://github.com/KYMario/TownOfHost-K)<br>
+Fork元の本家です<br>
+
+[TownOfHost_Y](https://github.com/Yumenopai/TownOfHost_Y)<br>
+マッドゲッサー、グリーディア、アドミニスター、テレキネスを参考/移植させていただきました<br>
+
+[SuperNewRoles](https://github.com/SuperNewRoles/SuperNewRoles)<br>
+マグロ、ミニマリスト、爆ぜ師、冤罪師、自爆魔を参考/移植させていただきました<br>
+
+[TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles)<br>
+ゲッサー系統の役職を参考/移植させていただきました<br>
